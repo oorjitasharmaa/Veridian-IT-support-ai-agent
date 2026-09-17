@@ -41,7 +41,7 @@ npm install
 npm run dev
 ```
 
-Open the URL Vite prints (normally http://localhost:5173).
+Open the URL Vite prints (normally http://localhost:5174).
 
 ### Demo API
 - `GET /api/health`
