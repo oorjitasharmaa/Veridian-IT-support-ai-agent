@@ -1,6 +1,6 @@
 # Veridian IT Support AI Agent
 
-A polished full-stack prototype for **AIONOS Assignment 2 — Internal Service Agent (IT Support)**.
+A polished full-stack prototype for **AIONOS Assignment  — Internal Service Agent (IT Support)**.
 
 ## What it does
 - AI-style IT support chat with grounded policy retrieval
@@ -80,3 +80,6 @@ Try:
 - Audit logs
 - Redis queue for human handoffs
 - Docker/Kubernetes deployment
+
+## Author
+Oorjita Sharma
